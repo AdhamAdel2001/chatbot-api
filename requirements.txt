@@ -1,0 +1,8 @@
+fastapi
+onnxruntime
+numpy
+gdown
+pydantic
+transformers
+uvicorn
+requests
